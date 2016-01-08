@@ -1,4 +1,4 @@
-The first test consists in making a grid of cities where Be Mate operates. In the file `screenshot.png` you will find the big screen result. This is, 9 cities distributed in a grid with 3 columns and 3 rows. The file `mobile.png` shows the small screen view, where only the 3 first items are shown. There is a middle state, with the cities distributed in 2 columns.
+The first test consists in making a grid of cities where Be Mate operates. In the file `desktop.png` you will find the big screen result. This is, 9 cities distributed in a grid with 3 columns and 3 rows. The file `mobile.png` shows the small screen view, where only the 3 first items are shown. There is a middle state, with the cities distributed in 2 columns.
 
 The font used in the design is Lato, you can find it at google fonts. All images needed are inside the assets folder.
 
